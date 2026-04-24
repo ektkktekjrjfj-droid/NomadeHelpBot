@@ -1,9 +1,9 @@
 # License for Nomad – Telegram Group Manager Bot
 
-**Author:** [LearningBotsOfficial](https://github.com/LearningBotsOfficial)  
-**Support Group:** [@LearningBotsCommunity](https://t.me/LearningBotsCommunity)  
-**Update Channel:** [@learning_bots](https://t.me/learning_bots)  
-**YouTube:** [Learning Bots](https://youtube.com/@learning_bots)
+**Author:** [LearningBotsOfficial](https://t.me/kushal_igcc_chats)  
+**Support Group:** [@LearningBotsCommunity](https://t.me/kushal_igcc_chats)  
+**Update Channel:** [@learning_bots](https://t.me/+dPlNdXZ0SnxmMDE1)  
+**YouTube:** [Learning Bots](https://www.youtube.com/@kushalzxgamer)
 
 ---
 
@@ -22,7 +22,7 @@ This project is **open-source**, but usage is governed by the following rules:
 - You may **not claim ownership** or re-upload the project under a different name without explicit written permission.
 
 ### ⚠️ Commercial Use
-If you want to use this bot or code commercially, you **must contact the author** and obtain written permission via [@LearningBotsOfficial](https://t.me/LearningBotsOfficial).
+If you want to use this bot or code commercially, you **must contact the author** and obtain written permission via [@LearningBotsOfficial](https://t.me/+29Z1MHS2owY4Njll).
 
 ---
 
